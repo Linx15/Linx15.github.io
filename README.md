@@ -24,3 +24,6 @@
 [My newly created LocalSystemCRUD that can be used to create, read, update, and delete txt files](Artifact2 - Algorithms and Data Structures/LocalSystemCRUD/main.py)
 
 ##[Artifact Three - Databases](Artifact3 - Databases](https://github.com/Linx15/Linx15.github.io/tree/8f5e47b8568f6a5fb11db0e47faa421553b1e5f7/Artifact3%20-%20Databases)
+
+For this artifact I created a database using MySQLWorkbench and encrypted the email section of a table to demonstrate skills with database as well as security
+The code from the database that I exported from MySQLWorkbench can be viewed [here](main/Artifact3 - Databases/my_project_db_users.sql)
