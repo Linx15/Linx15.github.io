@@ -27,3 +27,6 @@
 
 For this artifact I created a database using MySQLWorkbench and encrypted the email section of a table to demonstrate skills with database as well as security
 The code from the database that I exported from MySQLWorkbench can be viewed [here]([main/Artifact3 - Databases/my_project_db_users.sql](https://github.com/Linx15/Linx15.github.io/blob/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact3%20-%20Databases/my_project_db_users.sql))
+
+For this artifact I created a database using MySQLWorkbench and encrypted the email section of a table to demonstrate skills with database as well as security
+The code from the database that I exported from MySQLWorkbench can be viewed [here](https://github.com/Linx15/Linx15.github.io/blob/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact3%20-%20Databases/my_project_db_users.sql)
