@@ -19,11 +19,11 @@
 
 ##[Artifact One - Software Engineering and Design](Artifact1 - Software Engineering and Design)
 
-##[Artifact Two - Algorithms and Data Structures](Artifact2 - Algorithms and Data Structures)](https://github.com/Linx15/Linx15.github.io/tree/03a929d7f2afb0b8d1cb7ef50a700265a32a4eaa/Artifact2%20-%20Algorithms%20and%20Data%20Structures)
+##[Artifact Two - Algorithms and Data Structures]([Artifact2 - Algorithms and Data Structures)](https://github.com/Linx15/Linx15.github.io/tree/03a929d7f2afb0b8d1cb7ef50a700265a32a4eaa/Artifact2%20-%20Algorithms%20and%20Data%20Structures](https://github.com/Linx15/Linx15.github.io/tree/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact1%20-%20Software%20Engineering%20and%20Design))
 
-[My newly created LocalSystemCRUD that can be used to create, read, update, and delete txt files](Artifact2 - Algorithms and Data Structures/LocalSystemCRUD/main.py)
+[My newly created LocalSystemCRUD that can be used to create, read, update, and delete txt files]([Artifact2 - Algorithms and Data Structures/LocalSystemCRUD/main.py](https://github.com/Linx15/Linx15.github.io/tree/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact2%20-%20Algorithms%20and%20Data%20Structures))
 
-##[Artifact Three - Databases](Artifact3 - Databases](https://github.com/Linx15/Linx15.github.io/tree/8f5e47b8568f6a5fb11db0e47faa421553b1e5f7/Artifact3%20-%20Databases)
+##[Artifact Three - Databases]([main/Artifact3 - Databases](https://github.com/Linx15/Linx15.github.io/tree/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact3%20-%20Databases))
 
 For this artifact I created a database using MySQLWorkbench and encrypted the email section of a table to demonstrate skills with database as well as security
 The code from the database that I exported from MySQLWorkbench can be viewed [here](main/Artifact3 - Databases/my_project_db_users.sql)
