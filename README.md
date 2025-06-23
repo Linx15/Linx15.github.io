@@ -1,5 +1,5 @@
-# Hello! This is my GitHub Pages.
+# Hello! This is my GitHub Pages Site.
 
 
 # My Code Review on Youtube
-[Code Review Video] (https://youtu.be/MznBv4JIoNQ)
+[Code Review Video](https://youtu.be/MznBv4JIoNQ)
