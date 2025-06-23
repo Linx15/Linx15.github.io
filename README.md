@@ -1,4 +1,4 @@
-# Hello! My name is Alejandro Sarmiento, and this is my GitHub Pages Site.
+# Welcome to my site!
 
 ## My Professional Self-Assessment
 
