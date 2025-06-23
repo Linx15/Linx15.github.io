@@ -33,5 +33,6 @@ My first artifact was focused on software engineering and design, and for this o
 [Artifact Two - Algorithms and Data Structures](https://github.com/Linx15/Linx15.github.io/tree/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact2%20-%20Algorithms%20and%20Data%20Structures)
 
 
-[Artifact Three - Databases][main/Artifact3 - Databases](https://github.com/Linx15/Linx15.github.io/tree/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact3%20-%20Databases)
+[Artifact Three - Databases](https://github.com/Linx15/Linx15.github.io/tree/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact3%20-%20Databases)
+
 
