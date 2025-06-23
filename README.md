@@ -21,7 +21,7 @@ As I have gone through CS-499, I have learned some value skills as well in both 
 [Artifact One - Software Engineering and Design](https://github.com/Linx15/Linx15.github.io/tree/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact1%20-%20Software%20Engineering%20and%20Design)
 
 
-[Artifact Two - Algorithms and Data Structures]([Artifact2 - Algorithms and Data Structures)](https://github.com/Linx15/Linx15.github.io/tree/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact2%20-%20Algorithms%20and%20Data%20Structures)
+[Artifact Two - Algorithms and Data Structures](https://github.com/Linx15/Linx15.github.io/tree/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact2%20-%20Algorithms%20and%20Data%20Structures)
 
 
 [Artifact Three - Databases]([main/Artifact3 - Databases](https://github.com/Linx15/Linx15.github.io/tree/ea68984e8560f7f3e1e2ff1f0bf17c4cf0f6c6a6/Artifact3%20-%20Databases)
