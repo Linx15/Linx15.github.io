@@ -1,4 +1,4 @@
-# Hello! This is my GitHub Pages site.
+# Hello! This is my GitHub Pages.
 
 
 # My Code Review on Youtube
